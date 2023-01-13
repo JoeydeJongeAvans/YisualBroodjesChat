@@ -34,8 +34,8 @@ function App() {
       <section>
         {user ? <ChatRoom /> : <SignIn />}
       </section>
-
-    </div>
+      
+  </div>
   );
 }
 

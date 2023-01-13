@@ -1,5 +1,6 @@
 body {
-  background-color: #282c34;
+  background-image: url("../public/assets/images/bakery-aesthetic-pattern-7749w77qxvlj3cza.jpg");
+  
 }
 
 .App {
@@ -46,7 +47,7 @@ body {
   flex-direction: column;
   justify-content: center;
   min-height: 100vh;
-  background-color: white;
+  background-color: white
 }
 
 main {
@@ -231,3 +232,5 @@ img {
 .text-color {
   color: black;
 }
+
+
