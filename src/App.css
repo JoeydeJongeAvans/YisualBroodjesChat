@@ -1,6 +1,9 @@
 body {
-  background-image: url("../public/assets/images/bakery-aesthetic-pattern-7749w77qxvlj3cza.jpg");
-  
+  background-image: url("../public/assets/images/bakery-aesthetic-pattern-7749w77qxvlj3cza.jpg"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .App {
